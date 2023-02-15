@@ -47,16 +47,5 @@
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php"></code>
 </div>
 
-<!-- Github Statistics -->
-<div>  
-   <h2>Github Stats:</h2>
-   <!-- Github Readme Streak Stats Credit: https://github.com/DenverCoder1/github-readme-streak-stats -->
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-hasibul&" alt="iam-hasibul" /></p>
-   
-   <!-- Github Readme Stats Credit: https://github.com/anuraghazra/github-readme-stats -->
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-hasibul&show_icons=true&locale=en" alt="iam-hasibul" /></p>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-hasibul&show_icons=true&locale=en&layout=compact" alt="iam-hasibul" /></p>   
-
-</div>
 
 
