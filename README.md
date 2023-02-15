@@ -10,7 +10,7 @@
 <div align="left">
    <h2>About me:</h2>
    <p>I am Always eager to learn new technologies and techniques and improve my skills.and looking forward to collaborating and contributing to open-source projects.
-   <a href="https://husseincopol.github.io/" target="#">test</a>
+   <a href="https://husseincopol.github.io/" target="#">Check out the projects I worked on</a>
    </b></p>
 </div>
 
@@ -46,7 +46,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <h3>contribution Graph get eaten by Python 🐍</h3>
+  <h3>Qiamast contribution Graph get eaten by Python 🐍</h3>
   <img src="assets/grid_snake.gif" />
 </div>
 <!-- Contribution Graph -->
