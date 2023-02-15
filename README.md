@@ -3,7 +3,7 @@
    <h1>Hi, I'm Hussein<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="assets/code.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="assets/coding.gif" />
 
 
 <!-- About -->
