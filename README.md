@@ -46,7 +46,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <h3>Qiamast contribution Graph get eaten by Python 🐍</h3>
+  <h3>contribution Graph get eaten by Python 🐍</h3>
   <img src="assets/grid_snake.gif" />
 </div>
 <!-- Contribution Graph -->
