@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <div align="center">
-   <h1>Hey, I'm Hussein<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi, I'm Hussein<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="assets/code.gif" />
@@ -9,7 +9,7 @@
 <!-- About -->
 <div align="left">
    <h2>About me:</h2>
-   <p>I am passionate about learning the diversity of the Python technology field. I love creative things. I love to explore new technologies and learn them. I have interest in <b>Natural Deep Learning, Computer Vision, Generative Adversarial Network (GAN) etc.</b> I am currently working on <b>Python-Odoo v13.</b></p>
+   <p>I am Always eager to learn new technologies and techniques and improve my skills.and looking forward to collaborating and contributing to open-source projects.</b></p>
 </div>
 
 <br>
@@ -17,9 +17,9 @@
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:it.hhs19@gmail.com" target="#"><img height="30" src="assets/gmail.png"></a></code>
-   <code><a href="https://www.linkedin.com/in/iam-hasibul" target="#"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="http://t.me/iam_hasibul" target="#"><img height="30" src="assets/telegram.svg"></a></code>
+   <code><a href="mailto:husseincopol@gmail.com" target="#"><img height="30" src="assets/gmail.png"></a></code>
+   <code><a href="https://www.linkedin.com/in/husseinhajian" target="#"><img height="30" src="assets/linkedin.svg"></a></code>
+   <code><a href="https://t.me/husseincopol" target="#"><img height="30" src="assets/telegram.svg"></a></code>
 
 </div>
 
