@@ -19,9 +19,9 @@
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:husseincopol@gmail.com" target="#"><img height="30" src="assets/gmail.png"></a></code>
-   <code><a href="https://www.linkedin.com/in/husseinhajian" target="#"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://t.me/husseincopol" target="#"><img height="30" src="assets/telegram.svg"></a></code>
+   <code><a href="mailto:husseincopol@gmail.com" target="_blank"><img height="30" src="assets/gmail.png"></a></code>
+   <code><a href="https://www.linkedin.com/in/husseinhajian" target="_blank"><img height="30" src="assets/linkedin.svg"></a></code>
+   <code><a href="https://t.me/husseincopol" target="_blank"><img height="30" src="assets/telegram.svg"></a></code>
 
 </div>
 
