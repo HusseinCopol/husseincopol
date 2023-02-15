@@ -18,14 +18,9 @@
 <div>
    <h2>Connect with me:</h2>
    <code><a href="mailto:it.hhs19@gmail.com" target="#"><img height="30" src="assets/gmail.png"></a></code>
-   <code><a href="https://www.facebook.com/iam.hasibul" target="#"><img height="30" src="assets/facebook.svg"></a></code>
    <code><a href="https://www.linkedin.com/in/iam-hasibul" target="#"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://www.hackerrank.com/iam_hasibul" target="#"><img height="30" src="assets/hackerrank.svg"></a></code>
    <code><a href="http://t.me/iam_hasibul" target="#"><img height="30" src="assets/telegram.svg"></a></code>
-   <code><a href="https://www.behance.net/iam_hasibul" target="#"><img height="30" src="assets/behance.svg"></a></code>
-   <code><a href="https://dribbble.com/iam_hasibul" target="#"><img height="30" src="assets/dribbble.svg"></a></code>
-   <code><a href="https://www.instagram.com/iam.hasibul" target="#"><img height="30" src="assets/instagram.svg"></a></code>
-   <code><a href="https://twitter.com/iam_hasibul" target="#"><img height="30" src="assets/twitter.svg"></a></code>
+
 </div>
 
 <!-- Languages & Tools -->
